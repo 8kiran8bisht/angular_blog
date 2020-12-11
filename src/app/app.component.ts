@@ -7,7 +7,7 @@
  * Name: Kiran Bisht Student ID: 154683189 Date: 12/06/2020 
  * 
  * 
- * Heroku LinK:  
+ * Heroku Link:  https://web422-angular-blog-2020.herokuapp.com
  *  
  * 
  * ***********************************************************************************************************/
@@ -21,7 +21,7 @@ import { NavigationStart, Router } from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'web422-a6';
+  title = 'Web Final Assignment';
 
   constructor(private router: Router) { }
 
